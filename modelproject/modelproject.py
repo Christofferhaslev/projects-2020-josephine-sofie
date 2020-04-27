@@ -23,3 +23,6 @@ def solve_for_ss(s,g,n,alpha,delta):
     result = optimize.root_scalar(obj_kss,bracket=[0.1,100],method='bisect')
     
     return result
+
+    #a. define objective function 
+    obj_
