@@ -4,4 +4,4 @@ Our project is titled **Overlapping Generations Model**. In the project we inves
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires pip install ipywidgets.
